@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width:100%;
-	background-image: linear-gradient(rgba(4,9,30,0),rgba(4,9,30,1)),url(banner.png
+	background-image: linear-gradient(rgba(4,9,30,0),rgba(4,9,30,0)),url(background.png
 		);
 	background-position: center;
 	background-size: cover;
@@ -21,8 +21,8 @@ nav{
 }
 
 nav img{
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 40px;
 }
 .nav-links{
     flex: 1;
@@ -37,7 +37,7 @@ nav img{
 }
 
 .nav-links ul li a{
-    color: #fff;
+    color: #E75719;
     text-decoration: none;
     font-size: 13;
 }
